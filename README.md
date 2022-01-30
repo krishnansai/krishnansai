@@ -30,8 +30,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
  alt="gokula-krishnan-k-4328a3202" height="30" width="40" 
 /></a>
 <a href="https://codesandbox.com/krishnansai" 
-target="blank"><img align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
+target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
  alt="krishnansai" height="30" width="40" /></a>
 <a 
 href="https://instagram.com/_krishnan_sai_" target="blank"><img 
@@ -55,8 +54,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
  align="left">
         <a href="https://angular.io" target="_blank" 
 rel="noreferrer">
-          <img 
-src="https://angular.io/assets/images/logos/angular/angular.svg" 
+          <img src="https://angular.io/assets/images/logos/angular/angular.svg" 
 alt="angular" width="40" height="40"/>
         </a>
          
@@ -217,8 +215,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
          
         <a href="https://www.selenium.dev" target="_blank" 
 rel="noreferrer">
-          <img 
-src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
+          <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
  alt="selenium" width="40" height="40"/>
         </a>
          
@@ -228,6 +225,8 @@ rel="noreferrer">
 src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" 
 alt="spring" width="40" height="40"/>
         </a>
+ 
+ 
          
         <a href="https://vuejs.org/" target="_blank" 
 rel="noreferrer">
