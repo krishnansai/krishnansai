@@ -41,7 +41,7 @@ align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
  alt="_krishnan_sai_" height="30" width="40" /></a>
 <a 
-href="https://www.youtube.com/c/uc_oemyocgk5-dz1a2aih6kq" 
+href="https://www.youtube.com/channel/UC_oEMYOCgK5-dZ1A2AIH6KQ" 
 target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
  alt="uc_oemyocgk5-dz1a2aih6kq" height="30" width="40" /></a>
