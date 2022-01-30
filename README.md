@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gokula Krishnan K</h1>
-(https://git.io/typing-svg)
 <h3 align="center">Im passionate on technology</h3>
 
 <p
