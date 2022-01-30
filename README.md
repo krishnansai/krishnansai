@@ -1,3 +1,6 @@
+## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px"> [![Rasla-Dev](https://readme-typing-svg.herokuapp.com?font=Operator+Mono&color=%23F7F7F7&size=17&center=false&vCenter=true&lines=I+am+Rasla;I+am+A+Developer;I+am+Lazy;I+am+A+Youtuber;I+am+GameDev;I+am+Selftaught+Programmer)](https://git.io/typing-svg)
+
+###
 <h1 align="center">Hi 👋, I'm Gokula Krishnan K</h1>
 <h3 align="center">Im passionate on technology</h3>
 
