@@ -11,6 +11,8 @@ src="https://komarev.com/ghpvc/?username=krishnansai&label=Profile%20views&color
 
 - 🔭 I’m currently working on **2 Startup companys**
 
+- 🔭 addicted on Linux **
+
 - 🌱 I’m currently learning **Dovops , Hacking**
 
 - 👯 I’m looking to collaborate on **open Source projects**
