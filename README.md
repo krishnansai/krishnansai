@@ -1,4 +1,4 @@
-## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px"> [![Rasla-Dev](https://readme-typing-svg.herokuapp.com?font=Operator+Mono&color=%23F7F7F7&size=17&center=false&vCenter=true&lines=I+am+Gokula+Krishnan+K;I+am+A+Developer;I+am+Blogger;I+am+A+Youtuber;)](https://git.io/typing-svg)
+## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40gokula-krishnan-k~%23+whoami;%E2%9C%93+Devops+Engineer;%E2%9C%93+Blogger+;%E2%9C%93+Youtuber+;%E2%9C%93+Automation+Developer+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)
 
 
 
