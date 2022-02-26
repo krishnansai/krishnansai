@@ -15,13 +15,17 @@ src="https://komarev.com/ghpvc/?username=krishnansai&label=Profile%20views&color
 
 - 🔭 addicted on Linux **
 
-- 🌱 I’m currently learning **Dovops , Hacking**
+- 🌱 I’m currently learning **Devops , Hacking**
+
 
 - 👯 I’m looking to collaborate on **open Source projects**
 
+
 - 📝 I regularly write articles on [https://twinsaitechie.blogspot.com/](https://twinsaitechie.blogspot.com/)
 
+
 - 📫 How to reach me **krishnansai71@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
