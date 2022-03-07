@@ -35,7 +35,7 @@ align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
  alt="krishnansai71" height="30" width="40" /></a>
 <a 
-href="https://linkedin.com/in/gokula-krishnan-k-4328a3202" 
+href="https://www.linkedin.com/in/krishnansai/" 
 target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
  alt="gokula-krishnan-k-4328a3202" height="30" width="40" 
