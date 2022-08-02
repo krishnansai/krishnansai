@@ -7,7 +7,7 @@
 <h3 align="center">I Am passionate On Technology</h3>
 
 <p
- align="left"> <img 
+ align="left"> <img
 src="https://komarev.com/ghpvc/?username=krishnansai&label=Profile%20views&color=0e75b6&style=flat"
  alt="krishnansai" /> </p>
 
@@ -64,7 +64,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 
 <p><img align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnansai&show_icons=true&locale=en&layout=compact"
+src="https://github-readme-stats.vercel.app/ai/top-langs?username=krishnansai&show_icons=true&locale=en&layout=compact"
  alt="krishnansai" /></p>
 
 <br />
