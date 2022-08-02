@@ -64,7 +64,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 
 <p><img align="left" 
-src="https://github-readme-stats.vercel.app/ai/top-langs?username=krishnansai&show_icons=true&locale=en&layout=compact"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnansai&show_icons=true&locale=en&layout=compact"
  alt="krishnansai" /></p>
 
 <br />
