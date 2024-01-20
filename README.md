@@ -11,11 +11,11 @@
 src="https://komarev.com/ghpvc/?username=krishnansai&label=Profile%20views&color=0e75b6&style=flat"
  alt="krishnansai" /> </p>
 
-- 🔭 I’m currently working on **2 Startup companys** and working with Namakkal cyber crime police
+- 🔭 I’m currently working on **Product base company** 
 
-- 🔭 addicted on Linux **
+- 🔭 addicted on Linux **$**
 
-- 🌱 I’m currently learning **Devops , Hacking**
+- 🌱 I’m currently learning **Devops , Hacking, Cloud.**
 
 
 - 👯 I’m looking to collaborate on **open Source projects**
