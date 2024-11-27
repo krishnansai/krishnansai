@@ -20,7 +20,7 @@ src="https://komarev.com/ghpvc/?username=krishnansai&label=Profile%20views&color
 
 - 👯 I’m looking to collaborate on **open Source projects**
 
-- 📫 My Portfolio [https://krishnansai.github.io/Linux_portfolio/] (https://krishnansai.github.io/Linux_portfolio/)
+- 📫 My Portfolio [https://krishnansai.github.io/Linux_portfolio/](https://krishnansai.github.io/Linux_portfolio/)
 
 - 📝 I regularly write articles on [https://twinsaitechie.blogspot.com/](https://twinsaitechie.blogspot.com/)
 
